@@ -7,4 +7,4 @@
 ## Heaps
 |S.no | Title      | Problem        | Solution      |  Difficulty | Revisit Require |
 |-----:|------------|--------------:|-------------:| ----------:|------------------:|
-|1.|Relative Ranks[Problem](https://leetcode.com/problems/relative-ranks/)|[Solution]()|Easy|-|
+|1.|Relative Ranks|[Problem](https://leetcode.com/problems/relative-ranks/)|[Solution](https://github.com/samahuja642/leetcode/blob/main/heaps/relative_ranks.cpp)|Easy|-|
