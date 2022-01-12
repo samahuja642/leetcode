@@ -62,7 +62,52 @@ public:
 //     }
 // };
 
+// Attempt # 3
+// This Approach is best Actually the problem with upper one was that if we were using auxilary space then it kind of doesn't explain the beauty of two pointer.
+// Here we are just doing everything in the same array because you know if there are two zeroes in the array till the size goes out of bounds that means that last two elements of the array are of no use as they will be poped out according to our Brute force approach.
+// So its better to start retriving new array from the last.
+// Complexity Analysis
+// Space Complexity -> O(1)
+// Time Complexity -> O(N)
 
+// Code 
+// class Solution {
+// public:
+//     void duplicateZeros(vector<int>& arr) {
+//         int left = 0;
+//         int right = arr.size()-1;
+//         while(left<right){
+//             if(arr[left]==0){
+//                 left++;
+//                 right--;
+//             }
+//             else{
+//                 left++;
+//             }
+//         }
+//         for(int i=arr.size()-1;i>=0;i--){
+//             if(left==right && i==arr.size()-1){
+//                 arr[i]=arr[right];
+//                 right--;
+//             }
+//             else{
+//                 if(arr[right]==0){
+//                     arr[i]=0;
+//                     i--;
+//                     arr[i]=0;
+//                     right--;
+//                 }
+//                 else{
+//                     arr[i]=arr[right];
+//                     right--;
+//                 }
+//             }
+//         }
+//     }
+// };
+
+
+// Code Below this segment is also the same as Attempt 3 but it is not organized so i don't suggest you to read it.
 // When I was Solving it Random.
 
 //Code
