@@ -26,7 +26,7 @@ public:
 // Notes for me :)
 
 // # Max_Heapify
-// max_heapify is like comparing with its children and as we know for one based indexing two children will be 2*x and 2*x + 1 but here we are using one based indexing so we have to change a little.
+// max_heapify is like comparing with its children and as we know for one based indexing two children will be 2*x and 2*x + 1 but here we are using zero based indexing so we have to change a little.
 // and max_heapifty compares till the leaf Nodes 
 // Complexity Analysis 
 // Space Complexity -> O(1),As it is used in inplace sorting (Heap Sort).
