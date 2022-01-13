@@ -54,6 +54,7 @@ public:
 // 2. No Extra Space 
 // So here we can use Binary Search as it doesn't require extra space.
 // But we need Sorted array for that but if do that then indexes will be shifted (for this question it doesn't matter)
+// Question 1 : Can we Use inbuilt binary search in real interview ?
 // Complexity Analysis 
 // Space Complexity -> O(1)
 // Time Complexity -> O(N log N)
