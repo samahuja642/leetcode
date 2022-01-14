@@ -11,7 +11,7 @@
 |7.|Remove Element|[Problem](https://leetcode.com/problems/remove-element/)|[Solution](https://github.com/samahuja642/leetcode/blob/main/arrays/remove_element.cpp)|Easy|No|
 |8.|Remove Duplicates from Sorted Array|[Problem](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Solution](https://github.com/samahuja642/leetcode/blob/main/arrays/remove_dup_sorted_array.cpp)|Easy|Yes but for Brute force approach|
 |9.|Check If N and Its Double Exist|[Problem](https://leetcode.com/problems/check-if-n-and-its-double-exist/)|[Solution](https://github.com/samahuja642/leetcode/blob/main/arrays/check_if_n_and_double_exists.cpp)|Easy|No|
-
+|10|Valid Mountain Array|[Problem](https://leetcode.com/problems/valid-mountain-array/)|[Solution](https://github.com/samahuja642/leetcode/blob/main/arrays/valid_mountain_array.cpp)|Easy|No|
 ## Heaps
 |S.no | Title      | Problem        | Solution      |  Difficulty | Revisit Require |
 |-----:|------------|--------------:|-------------:| ----------:|------------------:|
