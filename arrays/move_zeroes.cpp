@@ -1,4 +1,10 @@
-```cpp
+// Attempt # 1
+// Brute Force 
+// Complexity Analysis 
+// Space Complexity -> O(1)
+// Time Complexity -> O(N^2)
+
+// Code
 class Solution {
 public:
     void moveZeroes(vector<int>& nums) {
@@ -14,4 +20,30 @@ public:
         }
     }
 };
-```
+
+// Attempt # 2
+// kind of again two pointer but can be observed without using it too.
+// Complexity Analysis
+// Space Compexity -> O(1)
+// Time Complexity -> O(N)
+
+// Code
+class Solution {
+public:
+    void moveZeroes(vector<int>& nums) {
+        int count = 0;
+        for(int i=0;i<nums.size();i++){
+            if(nums[i]==0)count++;
+        }
+        int var = 0;
+        for(int i=0;i<nums.size();i++){
+            if(nums[i]!=0){
+                nums[var]=nums[i];
+                var++;
+            }
+        }
+        for(int i=nums.size()-count;i<nums.size();i++){
+            nums[i]=0;
+        }
+    }
+};
