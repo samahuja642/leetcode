@@ -18,6 +18,10 @@
 |14.|Height Checker|[Problem](https://leetcode.com/problems/height-checker/)|[Solution](https://github.com/samahuja642/leetcode/blob/main/arrays/height_checker.cpp)|Easy|Yes Merge Sort| 
 |15.|Third Maximum Number|[Problem](https://leetcode.com/problems/third-maximum-number/)|[Solution](https://github.com/samahuja642/leetcode/blob/main/arrays/third_maximum_number.cpp)|Easy|Yes|
 |16.|Find All Numbers Disappeared in an Array|[Problem]()|[Solution]()|Easy|Yes|
+## Linked List
+|S.no | Title      | Problem        | Solution      |  Difficulty | Revisit Require |
+|-----:|------------|--------------:|-------------:| ----------:|------------------:|
+|1.|Design Linked List|[Problem](https://leetcode.com/problems/design-linked-list/)|[Solution](https://github.com/samahuja642/leetcode/blob/main/linked_list/Design_linked_list.cpp)|Medium|No|
 ## Heaps
 |S.no | Title      | Problem        | Solution      |  Difficulty | Revisit Require |
 |-----:|------------|--------------:|-------------:| ----------:|------------------:|
