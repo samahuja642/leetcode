@@ -25,6 +25,7 @@ public:
 // Complexity Analysis 
 // Space Complexity -> O(1)
 // Time Complexity -> O(N)
+// Explaination :- https://github.com/samahuja642/ds/blob/master/notes_from_leetcode/linked_list/Floyd_Algo/Floyd%20Algo.svg
 
 // Code
 class Solution {
