@@ -23,6 +23,7 @@
 |-----:|------------|--------------:|-------------:| ----------:|------------------:|
 |1.|Design Linked List|[Problem](https://leetcode.com/problems/design-linked-list/)|[Solution](https://github.com/samahuja642/leetcode/blob/main/linked_list/Design_linked_list.cpp)|Medium|No|
 |2.|Linked List Cycle|[Problem](https://leetcode.com/problems/linked-list-cycle/)|[Solution](https://github.com/samahuja642/leetcode/blob/main/linked_list/linked_list_cycle.cpp)|Easy|No|
+|3.|Linked List Cycle Detection 2|[Problem](https://leetcode.com/problems/linked-list-cycle-ii/)|[Solution](https://github.com/samahuja642/leetcode/blob/main/linked_list/cycle_detection2.cpp)|Medium|Yes|
 ## Heaps
 |S.no | Title      | Problem        | Solution      |  Difficulty | Revisit Require |
 |-----:|------------|--------------:|-------------:| ----------:|------------------:|
