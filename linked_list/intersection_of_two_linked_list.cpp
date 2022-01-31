@@ -1,3 +1,10 @@
+// Attempt # 1
+// Simple Approach Using HashTable
+// Complexity Analysis
+// Space Complexity -> O(N)
+// Time Complexity -> O(N+M)
+
+// Code
 class Solution {
 public:
     ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
@@ -14,6 +21,14 @@ public:
     }
 };
 
+// Attempt # 2
+// Floyd Algorithm by Changing the list and making it same again.
+// Complexity Analysis
+// Space Complexity -> O(1)
+// Time Complexity -> O(M+N)
+// Diagram -> https://github.com/samahuja642/leetcode/blob/main/linked_list/extras/intersection%20of%20linkedlist.svg
+
+// Code
 class Solution {
 public:
     ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
@@ -46,6 +61,13 @@ public:
     }
 };
 
+// Attempt # 3
+// making their sizes equal by advancing the bigger one linked list.
+// Complexity Analysis
+// Space Complexity -> O(1)
+// Time Complexity -> O(N+M)
+
+// Code
 class Solution {
 public:
     ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
