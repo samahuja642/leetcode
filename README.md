@@ -25,6 +25,7 @@
 |2.|Linked List Cycle|[Problem](https://leetcode.com/problems/linked-list-cycle/)|[Solution](https://github.com/samahuja642/leetcode/blob/main/linked_list/linked_list_cycle.cpp)|Easy|No|
 |3.|Linked List Cycle Detection 2|[Problem](https://leetcode.com/problems/linked-list-cycle-ii/)|[Solution](https://github.com/samahuja642/leetcode/blob/main/linked_list/cycle_detection2.cpp)|Medium|Yes|
 |4.|Intersection of Two Linked List|[Problem](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[Solution](https://github.com/samahuja642/leetcode/blob/main/linked_list/intersection_of_two_linked_list.cpp)|Easy|Yes|
+|5.|Remove Nth Node From End of List|[Problem](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Solution](https://github.com/samahuja642/leetcode/blob/main/linked_list/remove_n_from_end.cpp)|Medium|No|
 ## Heaps
 |S.no | Title      | Problem        | Solution      |  Difficulty | Revisit Require |
 |-----:|------------|--------------:|-------------:| ----------:|------------------:|
