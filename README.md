@@ -31,6 +31,7 @@
 |S.no | Title      | Problem        | Solution      |  Difficulty | Revisit Require |
 |-----:|------------|--------------:|-------------:| ----------:|------------------:|
 |1.|Sort an Array|[Problem](https://leetcode.com/problems/sort-an-array/)|[Solution](https://github.com/samahuja642/leetcode/blob/main/recursion/sort_an_array.cpp)|Medium|No|
+|2.|Delete Middle Element In a Stack|[Problem](https://practice.geeksforgeeks.org/problems/delete-middle-element-of-a-stack/1/#)|[Solution](https://github.com/samahuja642/leetcode/blob/main/recursion/deleting_middle_element_stack.cpp)|Easy|No|
 ## Heaps
 |S.no | Title      | Problem        | Solution      |  Difficulty | Revisit Require |
 |-----:|------------|--------------:|-------------:| ----------:|------------------:|
