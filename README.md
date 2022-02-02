@@ -28,6 +28,8 @@
 |5.|Remove Nth Node From End of List|[Problem](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Solution](https://github.com/samahuja642/leetcode/blob/main/linked_list/remove_n_from_end.cpp)|Medium|No|
 |6.|Reverse Linked List|[Problem](https://leetcode.com/problems/reverse-linked-list/)|[Solution](https://github.com/samahuja642/leetcode/blob/main/linked_list/reverse_ll.cpp)|Easy|Yes Recursion is Killing me.|
 ## Recursion
+|S.no | Title      | Problem        | Solution      |  Difficulty | Revisit Require |
+|-----:|------------|--------------:|-------------:| ----------:|------------------:|
 |1.|Sort an Array|[Problem](https://leetcode.com/problems/sort-an-array/)|[Solution](https://github.com/samahuja642/leetcode/blob/main/recursion/sort_an_array.cpp)|Medium|No|
 ## Heaps
 |S.no | Title      | Problem        | Solution      |  Difficulty | Revisit Require |
