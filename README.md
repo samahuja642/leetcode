@@ -27,6 +27,7 @@
 |4.|Intersection of Two Linked List|[Problem](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[Solution](https://github.com/samahuja642/leetcode/blob/main/linked_list/intersection_of_two_linked_list.cpp)|Easy|Yes|
 |5.|Remove Nth Node From End of List|[Problem](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Solution](https://github.com/samahuja642/leetcode/blob/main/linked_list/remove_n_from_end.cpp)|Medium|No|
 |6.|Reverse Linked List|[Problem](https://leetcode.com/problems/reverse-linked-list/)|[Solution](https://github.com/samahuja642/leetcode/blob/main/linked_list/reverse_ll.cpp)|Easy|Yes Recursion is Killing me.|
+|7.|Remove Linked List Elements|[Problem](https://leetcode.com/problems/remove-linked-list-elements/)|[Solution](https://github.com/samahuja642/leetcode/blob/main/linked_list/Remove_Linked_List_Element.cpp)|Easy|Yes Recursion|
 ## Recursion
 |S.no | Title      | Problem        | Solution      |  Difficulty | Revisit Require |
 |-----:|------------|--------------:|-------------:| ----------:|------------------:|
