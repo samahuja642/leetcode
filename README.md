@@ -29,6 +29,7 @@
 |6.|Reverse Linked List|[Problem](https://leetcode.com/problems/reverse-linked-list/)|[Solution](https://github.com/samahuja642/leetcode/blob/main/linked_list/reverse_ll.cpp)|Easy|Yes Recursion is Killing me.|
 |7.|Remove Linked List Elements|[Problem](https://leetcode.com/problems/remove-linked-list-elements/)|[Solution](https://github.com/samahuja642/leetcode/blob/main/linked_list/Remove_Linked_List_Element.cpp)|Easy|Yes Recursion|
 |8.|Odd Even Linked List|[Problem](https://leetcode.com/problems/odd-even-linked-list/)|[Solution](https://github.com/samahuja642/leetcode/blob/main/linked_list/odd_even_ll.cpp)|Medium|Yes Recursion and Better Structuring|
+|9.|Palindrome Linked List|[Problem](https://leetcode.com/problems/palindrome-linked-list/)|[Solution](https://github.com/samahuja642/leetcode/blob/main/linked_list/palindrome_linked_list.cpp)|Easy|Yes|
 ## Recursion
 |S.no | Title      | Problem        | Solution      |  Difficulty | Revisit Require |
 |-----:|------------|--------------:|-------------:| ----------:|------------------:|
