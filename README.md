@@ -21,7 +21,7 @@
 ## Linked List
 |S.no | Title      | Problem        | Solution      |  Difficulty | Revisit Require |
 |-----:|------------|--------------:|-------------:| ----------:|------------------:|
-|1.|Design Linked List|[Problem](https://leetcode.com/problems/design-linked-list/)|[Solution](https://github.com/samahuja642/leetcode/blob/main/linked_list/Design_linked_list.cpp)|Medium|No|
+|1.|Design Linked List|[Problem](https://leetcode.com/problems/design-linked-list/)|[Solution](https://github.com/samahuja642/leetcode/blob/main/linked_list/Design_linked_list.cpp)[Solution2](https://github.com/samahuja642/leetcode/blob/main/linked_list/design_linked_list2.cpp)|Medium|Yes|
 |2.|Linked List Cycle|[Problem](https://leetcode.com/problems/linked-list-cycle/)|[Solution](https://github.com/samahuja642/leetcode/blob/main/linked_list/linked_list_cycle.cpp)|Easy|No|
 |3.|Linked List Cycle Detection 2|[Problem](https://leetcode.com/problems/linked-list-cycle-ii/)|[Solution](https://github.com/samahuja642/leetcode/blob/main/linked_list/cycle_detection2.cpp)|Medium|Yes|
 |4.|Intersection of Two Linked List|[Problem](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[Solution](https://github.com/samahuja642/leetcode/blob/main/linked_list/intersection_of_two_linked_list.cpp)|Easy|Yes|
@@ -30,6 +30,8 @@
 |7.|Remove Linked List Elements|[Problem](https://leetcode.com/problems/remove-linked-list-elements/)|[Solution](https://github.com/samahuja642/leetcode/blob/main/linked_list/Remove_Linked_List_Element.cpp)|Easy|Yes Recursion|
 |8.|Odd Even Linked List|[Problem](https://leetcode.com/problems/odd-even-linked-list/)|[Solution](https://github.com/samahuja642/leetcode/blob/main/linked_list/odd_even_ll.cpp)|Medium|Yes Recursion and Better Structuring|
 |9.|Palindrome Linked List|[Problem](https://leetcode.com/problems/palindrome-linked-list/)|[Solution](https://github.com/samahuja642/leetcode/blob/main/linked_list/palindrome_linked_list.cpp)|Easy|Yes|
+|10.|Merge Two Sorted Lists|[Problem](https://leetcode.com/problems/merge-two-sorted-lists/)|[Solution](https://github.com/samahuja642/leetcode/blob/main/linked_list/merge_sorted_lists.cpp)|Easy|Yes|
+|11.|Add Two Numbers|[Problem](https://leetcode.com/problems/add-two-numbers/)|[Solution]()|Medium|Yes|
 ## Recursion
 |S.no | Title      | Problem        | Solution      |  Difficulty | Revisit Require |
 |-----:|------------|--------------:|-------------:| ----------:|------------------:|
