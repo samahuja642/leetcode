@@ -1,3 +1,7 @@
+// Attempt # 1
+// Simple Implementation More Important than first
+
+// Code
 class Node{
     public:
         int val;
