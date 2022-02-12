@@ -1,6 +1,12 @@
 // Attempt # 1
 // carry , cal -> sum , and updating them everytime.
-// 
+// Similar to Previous question merging two
+// Diagram -> https://github.com/samahuja642/leetcode/blob/main/linked_list/extras/Add_to_numbers.svg
+// Complexity Analysis 
+// Space Complexity -> O(1)
+// Time Complexity -> O(len(max(len(l1),len(l2)))+1) or O(N)
+
+// Code
 class Solution {
 public:
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
