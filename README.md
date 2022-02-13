@@ -43,6 +43,10 @@
 |3.|Reverse A Stack|[Problem](https://www.codingninjas.com/codestudio/problems/reverse-stack-using-recursion_631875?leftPanelTab=0)|[Solution](https://github.com/samahuja642/leetcode/blob/main/recursion/reverse_stack.cpp)|Easy|No|
 |4.|K-th Symbol in Grammar|[Problem](https://leetcode.com/problems/k-th-symbol-in-grammar/)|[Solution](https://github.com/samahuja642/leetcode/blob/main/recursion/kthSymbolGrammar.cpp)|Medium|Yes|
 |5.|Tower Of Hanoi|[Problem](https://practice.geeksforgeeks.org/problems/tower-of-hanoi-1587115621/1/#)|[Solution](https://github.com/samahuja642/leetcode/blob/main/recursion/tower_of_hanoi.cpp)|Medium|Yes|
+## Hashing
+|S.no | Title      | Problem        | Solution      |  Difficulty | Revisit Require |
+|-----:|------------|--------------:|-------------:| ----------:|------------------:|
+|1.|String Matching|[Problem](https://practice.geeksforgeeks.org/problems/implement-strstr/1/#)|[Solution](https://github.com/samahuja642/leetcode/blob/main/hashing/string_matching.cpp)|Basic|Yes|
 ## Heaps
 |S.no | Title      | Problem        | Solution      |  Difficulty | Revisit Require |
 |-----:|------------|--------------:|-------------:| ----------:|------------------:|
